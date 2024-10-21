@@ -1,0 +1,156 @@
+body{
+    color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#0F4C5C;
+
+    h1{
+      font-size: 3rem;
+      margin: 0;  
+    }
+    h2{
+        font-family: Playfair Display;
+        font-size: 2rem;
+        margin: 20px;
+    }
+    p{
+        font-size: 1.2rem;  
+    }
+    button{
+        
+        background-color: #ff9900;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1rem;
+        cursor: pointer;
+        margin-top: 20px; 
+        border-radius: 10px;
+    }
+    
+}
+
+h1{
+    font-family: Playfair Display;
+    font-size: 5rem;
+    margin: 20px;
+}
+h2{
+    font-family: Playfair Display;  
+}
+
+.reason {
+  
+    padding: 20px;;
+    
+    background-color: #f7a960;
+    display: inline-block;
+}
+.choose {
+    background-color: #1a5668;
+    color: white;
+
+    
+    
+}
+
+.table2{
+    width: 80%;
+    height: 500px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white;
+    color:black; 
+    
+   .th{
+    border: 2px solid blue;
+   }
+
+   .tr{
+    border: 2px solid blue;
+   }
+   .td{
+    border: 2px solid blue;
+   }
+}
+img{
+    border-radius: 10px;
+}
+video{
+    border-radius: 10px;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #225b64;
+    color: white;
+    padding: 20px;
+}
+
+.footer-all {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.left {
+    text-align: left;
+    width:100%
+}
+
+.right {
+    width: 70%;
+    display: flex;
+    text-align: justify;
+}
+
+.right ul {
+    list-style-type: none; 
+}
+
+.right ul li {
+    margin-bottom: 10px;
+}
+
+.right ul li a {
+    color: white;
+    
+}
+
+.icons a {
+    margin-right: 10px;
+}
+
+.social-icons img {
+    width: 24px;
+    height: 24px;
+}
+
+.bottom{
+    text-align:left;
+    color: #ccc;
+    margin-top: 50px;
+}
+
+.bottom2{
+    text-align:right;
+    color: #f4f4f4;
+}
+.large-text {
+    font-size: 72px; 
+    font-weight: bold; 
+     
+}
+
+
+
+
+
+
+
